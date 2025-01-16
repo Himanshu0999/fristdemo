@@ -1,2 +1,3 @@
-# fristdemo
-this is my frist project .
+# frist-demo
+this is my first project .
+author-himanshu yadav 
